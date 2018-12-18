@@ -1,0 +1,86 @@
+{
+	"asset": {
+		"attributes": {
+			 	"asset": "23",
+				"complex": "<html>",
+				"dts": "2018-12-18T18:20:40.234Z",
+				"global": "true",
+				"name": "vehicle1",
+				"provider": "ELD",
+				"raw": "376",
+				"simple": "3.76",
+				"unit": "C"
+			}
+		,
+		"colour": "#RRGGBB",
+		"company": "243",
+		"contact": "256",
+		"engineHours": "896",
+		"icon": "43",
+		"id": "54",
+		"kind": "vehicle",
+		"labels": [
+			"label1","label2"
+		],
+		"make": "Toyota",
+		"messagingAddress": "",
+		"model": "HOS",
+		"name": "",
+		"notes": "",
+		"odometer": "409" ,
+		"pictures": [
+			"753","754"
+		],
+		"places": {
+			"place1" : {
+				"enter": "2018-12-18T18:20:40.234Z",
+				"kind": "superior",
+				"latest": "2018-12-18T18:20:40.234Z"
+			}
+		},
+		"plate": "VEH-X01",
+		"position": {
+			"accuracy": "3",
+			"address": "Atlanta",
+			"altitude": "1050",
+			"bearing": "54",
+			"dts": "2018-12-18T18:20:40.234Z",
+			"lat": "41.89101",
+			"lng": "-87.62342",
+			"origin": "",
+			"speed": "78",
+			"speedLimit": "80",
+			"streetAddress": {
+				"city": "Chicago",
+				"country": "USA",
+				"isToll": "false",
+				"number": "78022",
+				"postal": "60611",
+				"province": "Chicago",
+				"region": "NAmerica",
+				"street": "160 E Illinois St"
+			}
+		},
+		"providers": [
+			"Tranzlogix"
+		],
+		"reference": "data",
+		"references": {
+			"normal":"893"
+		},
+		"relationships": [
+			{"vehice":"980"}
+		],
+		"serial": "10",
+		"tags": [
+			"label1","label2"
+		],
+		"v": [
+			"234"
+		],
+		"v[0]": "2",
+		"v[1]": "5",
+		"vin": "5TDZA22C04S100724",
+		"year": "2018"
+	}
+}
